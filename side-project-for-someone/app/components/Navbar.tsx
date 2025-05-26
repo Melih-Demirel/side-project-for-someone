@@ -4,7 +4,7 @@ import { useState } from "react";
 
 const sections = [
   "Faalangst", "Stress", "Perfectionisme", "Mindfulness",
-  "Yoga", "Angst", "Prestatiedruk", "Belang van slapen, gezond eten en voldoende bewegen"
+  "Yoga", "Angst", "Prestatiedruk", "Belang van slapen, gezond eten en voldoende bewegen", "Veerkracht"
 ];
 
 export default function Navbar() {
