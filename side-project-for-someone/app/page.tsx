@@ -112,6 +112,21 @@ const sections = [
     ],
   },
 ];
+const bronContent = [
+  "1. Saja Yoga. (z.d.). De wetenschap achter yoga. https://sajayoga.be/over-yoga/de-wetenschap-achter-yoga/",
+  "2. Waer Waters. (z.d.). Mindfulness en de wetenschap van stressreductie. https://www.waerwaters.com/nl/blogs/mindfulness-en-de-wetenschap-van-stressreductie",
+  "3. Eos Wetenschap. (2022, 5 juli). Minder stress en betere nachtrust dankzij lichaamsbeweging. Geraadpleegd op 23 mei 2025, van https://www.eoswetenschap.eu/psyche-brein/minder-stress-en-betere-nachtrust-dankzij-lichaamsbeweging",
+  "4. KU Leuven. (z.d.). Stress, lichamelijke en psychische ondermijning. https://nieuws.kuleuven.be/nl/2012_en_vroeger/0405/07/stress--lichamelijke-en-psychische-ondermijning",
+  "5. Gezondheid en wetenschap. (z.d.). Angststoornis · Gezondheid en wetenschap. https://www.gezondheidenwetenschap.be/richtlijnen/angststoornis",
+  "6. Nederlands Jeugdinstituut. (2024). Cijfers over prestatiedruk. https://www.nji.nl/cijfers/cijfers-over-prestatiedruk",
+  "7. KU Leuven. (z.d.-b). Perfectionisme. https://www.kuleuven.be/stuvo/gezondheid/gezondheidsinformatie/perfectionisme",
+  "8. KU Leuven. (z.d.). Faalangst. https://www.kuleuven.be/stuvo/gezondheid/gezondheidsinformatie/faalangst",
+  "9. Mindful Me. (z.d.). Artikels en wetenschap over mindfulness. https://www.mindfulme.be/onderzoek-wetenschap-mindfulness.html",
+  "10. Universiteit Leiden. (2023). Hoe langzamer ademen echt helpt tegen stress. https://www.universiteitleiden.nl/nieuws/2023/12/hoe-langzamer-ademen-echt-helpt-tegen-stress"
+];
+
+
+
 
 export default function Home() {
   return (
@@ -125,6 +140,10 @@ export default function Home() {
           ))}
         </section>
       ))}
+
+      <section className="mb-8"><CollapsibleSection title="Bron" content={bronContent} isBronList centerTitle />
+
+      </section>
     </main>
   );
 }
