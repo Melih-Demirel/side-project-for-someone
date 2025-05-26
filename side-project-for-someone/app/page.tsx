@@ -1,6 +1,9 @@
 import Navbar from "./components/Navbar";
 import CollapsibleSection from "./components/CollapsibleSection";
-
+export const metadata = {
+  title: 'Alles over jongeren',
+  description: 'Alles over jongeren',
+};
 // Example data (you'll replace this with actual content parsed from the DOCX file)
 const sections = [
   {
