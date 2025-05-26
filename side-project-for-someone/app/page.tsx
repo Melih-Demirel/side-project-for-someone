@@ -91,7 +91,7 @@ const sections = [
 
 export default function Home() {
   return (
-    <main className="p-4 pt-24 max-w-3xl mx-auto text-[var(--foreground)] bg-[var(--background)]">
+    <main className="scroll-pt-20 p-4 pt-24 max-w-3xl mx-auto text-[var(--foreground)] bg-[var(--background)]">
       <Navbar />
       {sections.map((section) => (
         <section key={section.id} id={section.id} className="mb-8">
