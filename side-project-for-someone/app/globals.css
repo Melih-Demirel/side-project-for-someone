@@ -19,6 +19,14 @@ body {
 }
 
 html {
-  scroll-padding-top: 55px;
   scroll-behavior: smooth;
+  scroll-padding-top: 60px;
+  /* default for small screens */
+}
+
+@media (min-width: 768px) {
+  html {
+    scroll-padding-top: 100px;
+    /* bigger offset for desktop */
+  }
 }
