@@ -51,9 +51,11 @@ export default function CollapsibleSection({
       </button>
 
       {open && typeof content === "string" && !isBronList ? (
-        <p className="px-3 pt-2 pb-3 text-gray-800 whitespace-pre-line bg-gray-100 rounded-b-md">
-          {content}
-        </p>
+        <p
+          className="px-3 pt-2 pb-3 text-gray-800 whitespace-pre-line bg-gray-100 rounded-b-md"
+          dangerouslySetInnerHTML={{ __html: content as string }}
+        />
+
       ) : open && isObjectContent(content) ? (
         <div className="px-3 pt-2 pb-3 text-gray-800 space-y-2 whitespace-pre-line bg-gray-100 rounded-b-md">
           <p>{content.intro}</p>

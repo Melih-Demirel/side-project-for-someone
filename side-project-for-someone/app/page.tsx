@@ -111,6 +111,51 @@ const sections = [
       { title: "Beweging", content: "Beweging speelt een fundamentele rol in de ontwikkeling van jongeren. Het draagt niet alleen bij aan een gezond gewicht en een sterk lichaam, maar ook aan het emotionele en mentale welzijn. Regelmatige fysieke activiteit versterkt het hart, de longen, de spieren en het skelet.\n\nDaarnaast heeft beweging een regulerende werking op stress en stemming. Tijdens het bewegen komen endorfines vrij, die zorgen voor een gevoel van plezier en ontspanning. Beweging verbetert ook de slaapkwaliteit en versterkt het zelfvertrouwen. Het draagt bij aan het ontwikkelen van sociale vaardigheden zoals samenwerken, communicatie en empathie, zeker binnen een sportcontext.\n\nLichamelijke activiteit stimuleert bovendien de hersenontwikkeling. Door verhoogde doorbloeding verbetert het geheugen, de concentratie en het leervermogen. Jongeren die regelmatig bewegen, presteren beter op school en voelen zich vaak beter in hun vel.\n\nDe Wereldgezondheidsorganisatie raadt aan dat jongeren dagelijks minstens 60 minuten matig tot intens bewegen. Dit kan via sport, dans, wandelen, fietsen of andere vormen van actieve vrijetijdsbesteding. Belangrijk is dat beweging plezierig is en aansluit bij de interesses van jongeren, zodat het gemakkelijker vol te houden is." },
     ],
   },
+  {
+    id: "Veerkracht",
+    title: "Veerkracht",
+    subsections: [
+      { title: "Inleiding", content: "Iedereen krijgt in het leven te maken met moeilijke momenten: een conflict met iemand die belangrijk is, stress voor een toets, onzekerheid over zichzelf, of iets verdrietigs dat gebeurt in de omgeving. Hoe iemand met zulke situaties omgaat, bepaalt voor een groot deel hoe die persoon zich voelt en hoe hij of zij verder kan. Dit heeft alles te maken met veerkracht." },
+      { title: "Wat is veerkracht?", content: "Veerkracht betekent dat iemand kan omgaan met tegenslagen, veranderingen of stressvolle gebeurtenissen, én dat diegene daar sterker uit kan komen. Het is het vermogen om zichzelf weer \"recht te trekken\" als het leven even niet loopt zoals gewenst. Veerkracht is vergelijkbaar met een veer: als die wordt ingedrukt, veert hij weer terug in zijn oorspronkelijke vorm. Zo werkt het ook met mensen. Iemand met veerkracht laat zich niet breken door problemen, maar probeert ervan te leren en verder te gaan." },
+      {
+        title: "Waarom is veerkracht belangrijk?", content: {
+          intro: "Veerkracht is niet alleen belangrijk bij grote gebeurtenissen, zoals verlies of een moeilijke thuissituatie. Het speelt ook een belangrijke rol in het dagelijks leven. Denk aan schooldruk, sociale media, groepsdruk of persoonlijke twijfels. Wie veerkrachtig is:",
+          bullets: [
+            "Kan beter omgaan met stress en spanning.",
+            "Heeft meer zelfvertrouwen.",
+            "Raakt minder snel uit balans.",
+            "Leert sneller van fouten of tegenslagen.",
+            "Heeft vaker een positievere kijk op de toekomst.",
+          ],
+          outro: ""
+        }
+      },
+      {
+        title: "Wat zijn belangrijke onderdelen van veerkracht?",
+        content: `
+          <strong>1. Zelfinzicht en positief denken</strong>\nHet begint met het kennen van zichzelf: wat iemand voelt, waar hij of zij goed in is, wat onzeker maakt en wat nodig is. Als iemand zichzelf goed kent, kan diegene beter voor zichzelf zorgen. Daarbij hoort ook een positieve manier van denken. Dat betekent niet altijd vrolijk zijn, maar wel het vertrouwen dat moeilijke momenten voorbijgaan en overwonnen kunnen worden.<br/>
+          <strong>2. Probleemoplossend vermogen</strong>\nIn plaats van vast te blijven zitten in het probleem, is het belangrijk om te kijken wat er wél gedaan kan worden. Dat kan iets kleins zijn, zoals hulp vragen of de planning aanpassen. Veerkracht betekent actief nadenken over oplossingen in plaats van opgeven.<br/>
+          <strong>3. Ondersteuning zoeken</strong>\nNiemand hoeft het alleen te doen. Veerkrachtige mensen durven hulp te vragen. Dat kan bij een vriend of vriendin, een ouder, een mentor of een hulpverlener op school. Praten lucht op en anderen kunnen helpen om situaties anders te bekijken.<br/>
+          <strong>4. Doelen stellen en ergens naartoe werken</strong>\nEen doel geeft richting, motivatie en hoop. Het hoeft geen groot doel te zijn; ook kleine stappen zijn waardevol. Bijvoorbeeld: op tijd opstaan of hulp zoeken voor een lastig vak. Doelen helpen iemand vooruit te blijven kijken.<br/>
+          <strong>5. Leren omgaan met emoties</strong>\nIedereen voelt zich wel eens boos, verdrietig of bang. Het is belangrijk om die gevoelens niet op te kroppen, maar ze te herkennen en ermee om te leren gaan. Voor sommige mensen helpt het om erover te schrijven, muziek te luisteren, te bewegen of met iemand te praten.
+
+        `
+      },
+      {
+        title: "Hoe kan veerkracht versterkt worden?", content: {
+          intro: "Veerkracht ontstaat niet vanzelf, maar kan stap voor stap ontwikkeld worden. Enkele manieren om veerkracht te versterken zijn:",
+          bullets: [
+            "Mild zijn voor zichzelf: perfectie is niet nodig",
+            "Leren van wat misgaat: fouten zijn normaal en leerzaam.",
+            "Goed zorgen voor lichaam en geest: voldoende rust, beweging en gezonde voeding helpen mentaal sterker te worden.",
+            "Tijd besteden aan activiteiten die energie geven: zoals hobby’s, muziek, contact met vrienden of familie.",
+            "Blijven geloven in eigen kunnen, ook als iets tijdelijk niet lukt.",
+          ],
+          outro: ""
+        }
+      },
+    ],
+  },
 ];
 const bronContent = [
   "1. Saja Yoga. (z.d.). De wetenschap achter yoga. https://sajayoga.be/over-yoga/de-wetenschap-achter-yoga/",
