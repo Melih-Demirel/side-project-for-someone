@@ -2,7 +2,7 @@
 
 const sections = [
   "Faalangst", "Stress", "Perfectionisme", "Mindfulness",
-  "Yoga", "Angst", "Prestatiedruk", "Slaap", "Voeding", "Beweging"
+  "Yoga", "Angst", "Prestatiedruk", "Belang van slapen, gezond eten en voldoende bewegen"
 ];
 
 export default function Navbar() {
