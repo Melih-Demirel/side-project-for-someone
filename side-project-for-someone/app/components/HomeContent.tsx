@@ -12,7 +12,31 @@ const sections = [
       { title: "Inleiding", content: "Faalangst is een probleem dat vaak voorkomt bij jongeren en zeker in schoolcontexten sterk naar voren komt. Het verwijst naar de intense angst om te falen in situaties waarin een prestatie geleverd moet worden. Dit kan gaan om examens, spreekbeurten, sportwedstrijden of zelfs sociale interacties waarbij men bang is om negatief beoordeeld te worden. Hoewel een beetje spanning normaal is, kan faalangst het functioneren van een jongere ernstig belemmeren als het te vaak of te hevig voorkomt." },
       { title: "Wat is het?", content: "Faalangst is een vorm van angst die optreedt wanneer iemand zich bedreigd voelt in een situatie waarin prestaties verwacht worden. De persoon denkt op voorhand al dat hij of zij zal falen en kan hierdoor blokkeren of zich volledig terugtrekken. Het is belangrijk om te beseffen dat faalangst niet altijd zichtbaar is: sommige leerlingen verbergen het achter perfectionisme, anderen worden stil en onzichtbaar in de klas. Cognitieve faalangst komt het meest voor in schoolcontext: hierbij vreest een leerling dat hij zal falen op een toets of opdracht, ondanks een degelijke voorbereiding." },
       { title: "Hoe herken je het?", content: "Faalangst kent een breed scala aan symptomen. Lichamelijk kunnen jongeren last hebben van zweten, trillen, hartkloppingen, buikpijn of kortademigheid. Mentaal treden vaak negatieve automatische gedachten op zoals 'ik kan dit niet', 'ik zal dom overkomen' of 'ik ga weer falen'. Deze gedachten zorgen voor spanning, concentratieverlies en prestatievermindering. Daarnaast kan er sprake zijn van vermijdingsgedrag: het uitstellen van studeren, geen spreekbeurten durven geven of zelfs school vermijden. Sommige jongeren krijgen black-outs of paniekaanvallen vlak voor een opdracht of toets. Ze weten op dat moment niets meer, ook al hadden ze de leerstof goed ingestudeerd." },
-      { title: "Welke aanpak is mogelijk?", content: "Een goede aanpak van faalangst vereist enerzijds inzicht in de onderliggende gedachten, en anderzijds het aanleren van vaardigheden om met spanning om te gaan. Cognitieve gedragstherapie is hierbij een bewezen methode: jongeren leren om negatieve automatische gedachten uit te dagen en realistisch te denken over hun prestaties. Ook het oefenen van faalmomenten in veilige omstandigheden, zoals rollenspelen of presentaties in kleine groep, helpt om de angst te normaliseren. Verder kunnen ontspanningstechnieken zoals diepe ademhaling, visualisatie en mindfulness bijdragen aan het verlagen van fysieke spanning. Het is belangrijk dat jongeren leren hun inspanning te waarderen, en niet enkel het resultaat. Ouders en leerkrachten kunnen ondersteunen door constructieve feedback te geven en ruimte te bieden voor groei." },
+      {
+        title: "Welke aanpak is mogelijk?",
+        content: `CGT bij faalangst
+
+Cognitieve gedragstherapie (CGT) helpt jongeren om faalangst aan te pakken door te werken aan hun gedachten, gevoelens en gedrag. Dit werkblad biedt uitleg bij de 6 belangrijkste stappen van CGT bij faalangst, met ruimte om in gesprek te gaan en oefeningen te koppelen aan hulpmiddelen zoals een positief dagboekje of reflectieblad.
+
+1. Negatieve gedachten herkennen
+Jongeren leren eerst bewust worden van de gedachten die opkomen bij spannende situaties zoals toetsen, spreekbeurten of sportwedstrijden. Ze schrijven deze gedachten op of vertellen ze hardop. Typische faalangstgedachten zijn bijvoorbeeld: “Ik kan dit niet”, “Ik ga falen” of “Iedereen zal me uitlachen”. Gebruik het reflectieblad om te noteren wanneer deze gedachten opduiken.
+
+2. Gedachten uitdagen
+Vervolgens leren jongeren hun negatieve gedachten kritisch te onderzoeken. Ze stellen zichzelf vragen zoals: ‘Is dit echt waar?’, ‘Wat is het ergste dat kan gebeuren?’ of ‘Wat zou ik zeggen tegen een vriend(in) die dit denkt?’ Dit helpt hen beseffen dat gedachten geen feiten zijn.
+
+3. Helpende gedachten formuleren
+Nu vervangen ze de negatieve gedachten door realistischere, positievere alternatieven. Bijvoorbeeld: ‘Ik mag fouten maken, dat hoort bij leren’ of ‘Ik doe mijn best en dat is genoeg’. Deze helpende gedachten kunnen dagelijks worden opgeschreven in het positief dagboekje als affirmatie of motivatie.
+
+4. Spannende situaties stap voor stap oefenen
+Jongeren vermijden vaak wat hen bang maakt. In deze stap leren ze moeilijke situaties geleidelijk op te bouwen. Bijvoorbeeld: eerst oefenen voor zichzelf, dan voor een vriend(in), dan voor een klein groepje. In het reflectieblad kunnen ze hun ervaringen en gevoelens na elke stap bijhouden.
+
+5. Ontspanningstechnieken aanleren
+Om de fysieke spanning te verminderen, leren jongeren technieken zoals buikademhaling, yoga, mindfulness,…. Voor het oefenen van deze technieken kan dagelijks een kort moment worden ingepland, eventueel met reflectie in het dagboek.
+
+6. Positieve focus versterken
+Tot slot wordt de aandacht bewust verlegd naar wat goed gaat. Het positief dagboekje helpt hierbij: jongeren schrijven 1 tot 3 dingen op die goed gingen, waar ze trots op zijn of wat hen blij maakte. Dit versterkt hun zelfvertrouwen en veerkracht.`
+
+      },
       { title: "Wanneer hulp inschakelen?", content: "Als de faalangst zo ernstig is dat het het dagelijks leven belemmert – bijvoorbeeld als een leerling school vermijdt, constant huilt of slaapproblemen heeft – is professionele hulp aangewezen. Een gesprek met een CLB-medewerker, leerlingbegeleider of psycholoog kan inzicht geven in de oorzaak van de angst. Vaak wordt er gewerkt met cognitieve gedragstherapie waarbij jongeren leren om hun negatieve gedachten uit te dagen en anders te denken over falen. Soms wordt er ook gewerkt in groepjes met andere jongeren die faalangst ervaren, zodat ze leren dat ze niet alleen zijn. Vroegtijdige hulp is belangrijk om te voorkomen dat faalangst leidt tot schooluitval, burn-out of depressie." },
       { title: "Wist u dat...?", content: "Bij faalangst neemt het angstcentrum in je hersenen, de amygdala, de controle over. Hierdoor functioneert je denkvermogen tijdelijk minder goed, wat leidt tot black-outs of paniek. Je lichaam zit dan in een vecht-of-vluchtmodus, ook al is er geen echt gevaar. Door je hersenen te trainen met ademhaling of meditatie, kun je leren om rustiger te reageren op zulke situaties." },
     ],
@@ -118,7 +142,40 @@ const sections = [
       { title: "Inleiding", content: "Prestatiedruk is een veelvoorkomende vorm van stress bij jongeren, vooral in de context van school en studie. Het verwijst naar de spanning die iemand ervaart door de overtuiging te moeten voldoen aan hoge verwachtingen van zichzelf of van anderen. Hoewel een zekere mate van druk stimulerend kan werken, leidt overmatige prestatiedruk tot psychische en lichamelijke klachten, en kan het het functioneren ernstig belemmeren." },
       { title: "Wat is het precies?", content: "Prestatiedruk ontstaat wanneer iemand voortdurend het gevoel heeft te moeten presteren om aan de norm te voldoen. Deze druk kan intern zijn, zoals perfectionisme en faalangst, of extern, zoals verwachtingen van ouders, leerkrachten of de maatschappij. In een tijd waarin sociale media succes en perfectie benadrukken, voelen jongeren zich steeds vaker beoordeeld op hun prestaties, cijfers en zichtbare resultaten. De constante vergelijking met anderen draagt bij aan een verhoogd gevoel van falen of tekortschieten." },
       { title: "Hoe is het te herkennen?", content: "Jongeren die onder prestatiedruk staan, vertonen vaak signalen zoals overmatige bezorgdheid over cijfers, uitstelgedrag, slapeloosheid en concentratieproblemen. Zij durven vaak geen hulp te vragen uit angst als zwak te worden gezien en zijn voortdurend bezig met het vermijden van fouten. Fysiek kunnen spanningsklachten optreden zoals hoofdpijn, maagpijn of vermoeidheid. Psychisch uit het zich in perfectionisme, zelfkritiek, emotionele uitputting of gevoelens van minderwaardigheid." },
-      { title: "Welke aanpak is mogelijk?", content: "Een eerste stap in het aanpakken van prestatiedruk is het creëren van een realistisch zelfbeeld en het herdefiniëren van succes. Het is belangrijk om haalbare doelen te stellen en niet te streven naar perfectie. Ondersteuning vanuit de omgeving is cruciaal: ouders, leerkrachten en begeleiders kunnen helpen door erkenning te geven aan inspanning in plaats van enkel aan resultaat. Het aanleren van time-managementvaardigheden, het plannen van ontspanning en het bespreekbaar maken van de ervaren druk dragen bij aan de afname ervan. Verder kunnen ontspanningstechnieken zoals ademhalingsoefeningen, mindfulness of lichaamsbeweging helpen om spanningsklachten te verminderen." },
+      {
+        title: "Welke aanpak is mogelijk?", content: `Een eerste stap in het aanpakken van prestatiedruk is het creëren van een realistisch zelfbeeld en het herdefiniëren van succes. Het is belangrijk om haalbare doelen te stellen en niet te streven naar perfectie. Ondersteuning vanuit de omgeving is cruciaal: ouders, leerkrachten en begeleiders kunnen helpen door erkenning te geven aan inspanning in plaats van enkel aan resultaat. Het aanleren van time-managementvaardigheden, het plannen van ontspanning en het bespreekbaar maken van de ervaren druk dragen bij aan de afname ervan. Verder kunnen ontspanningstechnieken zoals ademhalingsoefeningen, mindfulness of lichaamsbeweging helpen om spanningsklachten te verminderen.
+
+        Hoe kun je time-management aanleren bij jongeren?
+        
+        Veel jongeren worstelen met drukke agenda’s, uitstelgedrag en stress rond schooltaken. Goede time-managementvaardigheden kunnen helpen om beter te plannen, overzicht te houden én ruimte te maken voor ontspanning. Maar hoe leer je dat aan?
+        
+        1. Maak plannen zichtbaar en haalbaar
+        
+        Jongeren hebben baat bij visuele hulpmiddelen zoals een weekplanner, agenda of app. Laat ze hun schooltaken, hobby’s, rustmomenten en deadlines invullen. Begin eenvoudig, met slechts enkele taken per dag. Succeservaringen bouwen motivatie op.
+        
+        2. Leer prioriteiten stellen
+        
+        Niet alles is even dringend of belangrijk. Help jongeren onderscheid maken tussen:
+        
+        &nbsp;&nbsp;&nbsp;&nbsp;· Wat nu moet gebeuren  
+        &nbsp;&nbsp;&nbsp;&nbsp;· Wat belangrijk is, maar kan wachten  
+        &nbsp;&nbsp;&nbsp;&nbsp;· Wat minder prioriteit heeft
+        
+        Tools zoals de Eisenhower-matrix kunnen hierbij ondersteunen. Dit geeft rust en richting.
+        
+        3. Stimuleer realistische tijdsinschatting
+        
+        Laat jongeren vooraf bedenken hoeveel tijd iets kost en na afloop reflecteren: klopte dat? Zo ontwikkelen ze zelfinzicht en leren ze beter plannen.
+        
+        4. Werk met vaste routines
+        
+        Structuur helpt. Stimuleer jongeren om op vaste momenten te werken, bijvoorbeeld elke dag een halfuur na school. Hierdoor wordt beginnen een gewoonte en neemt uitstelgedrag af.
+        
+        5. Beloon inzet, niet enkel resultaat
+
+        Time-management vraagt oefening. Geef positieve feedback op het volgen van de planning of het proberen, ook als niet alles gelukt is. Dit versterkt het zelfvertrouwen en bevordert zelfstandigheid.`
+
+      },
       { title: "Wanneer en waar hulp zoeken?", content: "Indien prestatiedruk leidt tot ernstige klachten zoals burn-outsymptomen, depressieve gevoelens of schooluitval, is het noodzakelijk professionele hulp in te schakelen. Het CLB, een psycholoog of een schoolbegeleider kunnen ondersteuning bieden via gesprekken, coaching of therapie gericht op stressmanagement, zelfbeeld en faalangst. Vroegtijdige interventie is belangrijk om chronische klachten en verdere uitval te voorkomen." },
       { title: "Wist u dat...?", content: "Uit Vlaams onderzoek blijkt dat prestatiedruk nauw samenhangt met het gebruik van sociale media, waarbij jongeren zichzelf voortdurend vergelijken met anderen. Ook blijkt dat jongeren vaak meer druk ervaren van zichzelf dan van hun ouders of leerkrachten. Een klimaat waarin fouten maken gezien wordt als leermoment, kan de schadelijke effecten van prestatiedruk aanzienlijk verminderen." },
     ],
@@ -247,16 +304,6 @@ export default function HomeContent() {
           {section.subsections.map((sub, i) => (
             <CollapsibleSection key={i} title={sub.title} content={sub.content} />
           ))}
-          {/* ✅ Add your image ONLY for the "Stress" section */}
-          {section.id === "Perfectionisme" && (
-            <div className="mt-6 flex justify-center">
-              <img
-                src="/pareto.jpg"
-                alt="Infografiek over perfectionisme"
-                className="w-full max-w-md rounded-xl shadow"
-              />
-            </div>
-          )}
         </section>
       ))}
 
