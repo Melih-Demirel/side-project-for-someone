@@ -12,26 +12,24 @@ export default function Navbar() {
 
   return (
     <nav className="fixed top-0 left-0 right-0 bg-white shadow z-50">
-      <div className="max-w-4xl mx-auto px-4 py-2 flex items-center justify-between">
-        {/* Logo or Brand could go here */}
-        <h3 className="text-l md:text-l font-extrabold text-gray-900 mb-0 flex-grow">
-          Alles Over Jongeren
+      <div className="max-w-4xl mx-auto px-6 py-2 flex items-center">
+        <h3 className="text-l md:text-l font-extrabold text-gray-900 mb-0 mr-8">
+          Gids voor het mentale welzijn van jongeren
         </h3>
 
-
-        {/* Desktop Menu */}
-        <div className="hidden md:flex flex-wrap justify-center gap-3">
+        <div className="hidden md:flex flex-wrap justify-end gap-3">
           {sections.map((section) => (
             <a
               key={section}
               href={`#${section}`}
               className="text-sm font-medium text-gray-800 hover:text-blue-600 hover:underline transition-colors
-                         border border-gray-300 rounded-md px-3 py-1"
+                 border border-gray-300 rounded-md px-3 py-1"
             >
               {section}
             </a>
           ))}
         </div>
+
 
         {/* Mobile Burger Icon */}
         <button
