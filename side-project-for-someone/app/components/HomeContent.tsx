@@ -150,11 +150,9 @@ Tot slot wordt de aandacht bewust verlegd naar wat goed gaat. Het positief dagbo
         Veel jongeren worstelen met drukke agenda’s, uitstelgedrag en stress rond schooltaken. Goede time-managementvaardigheden kunnen helpen om beter te plannen, overzicht te houden én ruimte te maken voor ontspanning. Maar hoe leer je dat aan?
         
         1. Maak plannen zichtbaar en haalbaar
-        
         Jongeren hebben baat bij visuele hulpmiddelen zoals een weekplanner, agenda of app. Laat ze hun schooltaken, hobby’s, rustmomenten en deadlines invullen. Begin eenvoudig, met slechts enkele taken per dag. Succeservaringen bouwen motivatie op.
         
         2. Leer prioriteiten stellen
-        
         Niet alles is even dringend of belangrijk. Help jongeren onderscheid maken tussen:
         
         &nbsp;&nbsp;&nbsp;&nbsp;· Wat nu moet gebeuren  
@@ -164,15 +162,12 @@ Tot slot wordt de aandacht bewust verlegd naar wat goed gaat. Het positief dagbo
         Tools zoals de Eisenhower-matrix kunnen hierbij ondersteunen. Dit geeft rust en richting.
         
         3. Stimuleer realistische tijdsinschatting
-        
         Laat jongeren vooraf bedenken hoeveel tijd iets kost en na afloop reflecteren: klopte dat? Zo ontwikkelen ze zelfinzicht en leren ze beter plannen.
         
         4. Werk met vaste routines
-        
         Structuur helpt. Stimuleer jongeren om op vaste momenten te werken, bijvoorbeeld elke dag een halfuur na school. Hierdoor wordt beginnen een gewoonte en neemt uitstelgedrag af.
         
         5. Beloon inzet, niet enkel resultaat
-
         Time-management vraagt oefening. Geef positieve feedback op het volgen van de planning of het proberen, ook als niet alles gelukt is. Dit versterkt het zelfvertrouwen en bevordert zelfstandigheid.`
 
       },

@@ -3,7 +3,7 @@
 import HomeContent from "./components/HomeContent";
 
 export const metadata = {
-  title: 'Gids voor het mentale welzijn van jongeren',
+  title: 'Gids mentale welzijn van jongeren',
   description: 'Gids voor het mentale welzijn van jongeren',
 };
 
